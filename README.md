@@ -1,3 +1,13 @@
+#GoudenEeuw
+==========================================
+For information about the research results of the project read [this](http://www.flinckapp.com/img/flinck_research.pdf) pdf. And for more information [flinckapp.com](http://www.flinckapp.com).
+
+
+Usage guide
+==========================================
+For a more extensive usage guide check out the pdf in pdf/goldenage_zotonic_api_manual_v2.pdf
+
+
 Hollanders van de Gouden Eeuw backend code
 ==========================================
 
